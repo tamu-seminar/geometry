@@ -21,31 +21,30 @@ This seminar meets on Fridays 4:00-5:00 PM in Blocker 302.
 The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 
-| Date         | Speaker | Title |  Other |
-|--------------|---------|-------|-------|
-| August 25, 2025   |  Junsin Lacini    | Sample Title  | <span class="abstract-link" onclick="showAbstract('abs-sample')">View Abstract</span>  |
-| August 29, 2025   |  Sample speaker       | Sample Title  | <span class="abstract-link" onclick="showAbstract('abs-sample')">View Abstract</span>  |
-| September 5, 2025 |         |       |   No seminar (promotion talks)    |
-| September 12, 2025|         |       |   No seminar (promotion talks)    |
-| September 19, 2025|  |  |       |
-| September 26, 2025|         |       |       |
-| October 3, 2025   |         |       |       |
-| October 10, 2025  |         |       |       |
-| October 17, 2025  |         |       |       |
-| October 24, 2025  |         |       |       |
-| October 31, 2025  |         |       |       |
-| November 7, 2025  |         |       |       |
-| November 14, 2025 |         |       |       |
-| November 21, 2025 |         |       |       |
-| November 28, 2025 |         |       |  No seminar (Thanksgiving)     |
-| December 5, 2025  |         |       |       |
-
+| Date         | Speaker | Affiliation| Title | Other |
+|--------------|---------|------------|-------|-------|
+| August 25, 2025   |  Justin Lacini  | Texas A&M  | Logarithmic bounds on Fujita's conjecture | <span class="abstract-link" onclick="showAbstract('Lacini')">View Abstract</span>  |
+| August 29, 2025   |      |   |      |   |
+| September 5, 2025 |      |   |      |   No seminar (promotion talks)    |
+| September 12, 2025|      |   |      |   No seminar (promotion talks)    |
+| September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
+| September 26, 2025|      |   |      |       |
+| October 3, 2025   |      |   |      |       |
+| October 10, 2025  |      |   |      |       |
+| October 17, 2025  |      |   |      |       |
+| October 24, 2025  |      |   |      |       |
+| October 31, 2025  |      |   |      |       |
+| November 7, 2025  |      |   |       |       |
+| November 14, 2025 |      |   |       |       |
+| November 21, 2025 |      |   |       |       |
+| November 28, 2025 |      |   |       |  No seminar (Thanksgiving)     |
+| December 5, 2025  |      |   |       |       |
 
 
 # Related Links
 
-- [Departmental seminar website](https://artsci.tamu.edu/mathematics/research/seminars/algebra-combinatorics/index.html) (not working as of Aug 13, 2025)
-- [Departmental website of the algebra and combinatorics group](https://artsci.tamu.edu/mathematics/research/algebra-combinatorics/index.html#Algebra%20and%20Combinatorics) (very out of date of Aug 13, 2025)
+- [Departmental seminar website]() (not working as of Aug 13, 2025)
+- [Departmental website of the geometry and topology](https://artsci.tamu.edu/mathematics/research/geometry-and-topology/) (very out of date of Aug 13, 2025)
 
 
 
@@ -61,8 +60,16 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 <!-- Abstract content -->
 
-<div id="abs-sample" style="display:none;">
-This is a sample abstract. It also renders LaTeX $\binom{n}{k}$.
+<div id="Lacini" style="display:none;">
+A longstanding conjecture of T. Fujita asserts that if $X$ is
+a smooth complex projective variety of dimension $n$ and if $L$ is an
+ample line bundle, then $K_X+mL$ is basepoint free for $m\geq n+1$. The
+conjecture is known up to dimension five by work of Reider, Ein,
+Lazarsfeld, Kawamata, Ye and Zhu. In higher dimensions, breakthrough
+work of Angehrn, Siu, Helmke and others showed that the conjecture
+holds if $m$ is larger than a quadratic function in $n$. We show that for
+$n\geq 2$ the conjecture holds for m larger than $n(\log\log(n)+3)$. This is
+joint work with L. Ghidelli.
 </div>
 
 
