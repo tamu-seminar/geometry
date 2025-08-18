@@ -16,7 +16,7 @@ layout: default
 
 # Fall 2025
 
-This seminar meets on Fridays 4:00-5:00 PM in Blocker 302.
+This seminar meets on Mondays 3:00-3:50 PM and Fridays 4:00-4:50 PM in Blocker 302.
 
 The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
@@ -25,7 +25,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 |--------------|---------|------------|-------|-------|
 | August 25, 2025   |  Justin Lacini  | Texas A&M  | Logarithmic bounds on Fujita's conjecture | <span class="abstract-link" onclick="showAbstract('Lacini')">View Abstract</span>  |
 | August 29, 2025   |      |   |      |   |
-| September 5, 2025 |      |   |      |   No seminar (promotion talks)    |
+| September 5, 2025 |      |   |         No seminar (promotion talks)    |
 | September 12, 2025|      |   |      |   No seminar (promotion talks)    |
 | September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
 | September 26, 2025|      |   |      |       |
