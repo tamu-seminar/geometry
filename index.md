@@ -23,6 +23,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 | Date         | Speaker | Title |  Other |
 |--------------|---------|-------|-------|
+| August 25, 2025   |  Junsin Lacini    | Sample Title  | <span class="abstract-link" onclick="showAbstract('abs-sample')">View Abstract</span>  |
 | August 29, 2025   |  Sample speaker       | Sample Title  | <span class="abstract-link" onclick="showAbstract('abs-sample')">View Abstract</span>  |
 | September 5, 2025 |         |       |   No seminar (promotion talks)    |
 | September 12, 2025|         |       |   No seminar (promotion talks)    |
