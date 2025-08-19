@@ -76,14 +76,6 @@ joint work with L. Ghidelli.
 <!-- Code that makes the pop-up windows -->
 
 <style>
-.abstract-link {
-  color: blue;
-  text-decoration: bold;
-  cursor: pointer;
-}
-</style>
-
-<style>
 /* Modal background */
 #abstract-modal-overlay {
   position: fixed;
