@@ -24,9 +24,9 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
 | August 25, 2025   |  Justin Lacini  | Texas A&M  | Logarithmic bounds on Fujita's conjecture | <span class="abstract-link" onclick="showAbstract('Lacini')">View Abstract</span>  |
-| August 29, 2025   |      |   |      |   |
-| September 5, 2025 |      |   |         No seminar (promotion talks)    |
-| September 12, 2025|      |   |      |   No seminar (promotion talks)    |
+| August 29, 2025   |      |   | No seminar  |  (promotion talks)  |
+| September 5, 2025 |      |   | No seminar  | (promotion talks)    |
+| September 12, 2025|      |   | No seminar | (promotion talks)    |
 | September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
 | September 26, 2025|      |   |      |       |
 | October 3, 2025   |      |   |      |       |
@@ -68,7 +68,7 @@ conjecture is known up to dimension five by work of Reider, Ein,
 Lazarsfeld, Kawamata, Ye and Zhu. In higher dimensions, breakthrough
 work of Angehrn, Siu, Helmke and others showed that the conjecture
 holds if $m$ is larger than a quadratic function in $n$. We show that for
-$n\geq 2$ the conjecture holds for m larger than $n(\log\log(n)+3)$. This is
+$n\geq 2$ the conjecture holds for $m$ larger than $n(\log\log(n)+3)$. This is
 joint work with L. Ghidelli.
 </div>
 
