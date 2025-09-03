@@ -28,13 +28,13 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | September 5, 2025 |      |   | No seminar  | (promotion talks)    |
 | September 12, 2025|      |   | No seminar | (promotion talks)    |
 | September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
-| September 26, 2025|      |   |      |       |
+| September 25, 2025| Jordy Lopez   | Notre Dame    |  TBA | Special time, Thursday 11-12 Bloc 605AX  |
 | October 3, 2025   |      |   |      |       |
 | October 10, 2025  |      |   |      |       |
 | October 17, 2025  |      |   |      |       |
 | October 24, 2025  |      |   |      |       |
 | October 31, 2025  |      |   |      |       |
-| November 7, 2025  |      |   |       |       |
+| November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of M&uuml;nster  |       | Monday      |
 | November 14, 2025 |      |   |       |       |
 | November 21, 2025 |      |   |       |       |
 | November 28, 2025 |      |   |       |  No seminar (Thanksgiving)     |
