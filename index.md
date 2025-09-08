@@ -29,7 +29,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | September 12, 2025|      |   | No seminar | (promotion talks)    |
 | September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
 | September 25, 2025| Jordy Lopez   | Notre Dame    |  TBA | Special time, Thursday 11-12 Bloc 605AX  |
-| October 3, 2025   |      |   |      |       |
+| October 6, 2025   | Debaditya Raychadhury | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
 | October 10, 2025  |      |   |      |       |
 | October 17, 2025  |      |   |      |       |
 | October 24, 2025  |      |   |      |       |
@@ -70,6 +70,22 @@ work of Angehrn, Siu, Helmke and others showed that the conjecture
 holds if $m$ is larger than a quadratic function in $n$. We show that for
 $n\geq 2$ the conjecture holds for $m$ larger than $n(\log\log(n)+3)$. This is
 joint work with L. Ghidelli.
+</div>
+
+
+<!-- Abstract content -->
+
+<div id="Raychadhury" style="display:none;">
+ Secant varieties are classical objects in algebraic
+geometry. Given a smooth projective variety inside a projective space,
+its secant variety is by definition the closure of the union of secant
+lines. It is almost always singular and sits inside the same
+projective space by its construction. In this talk, we will discuss
+the singularities of secant varieties when the embedding is
+sufficiently positive. In particular, we will study the Du Bois
+complex of secant varieties and will also discuss about its local
+cohomology modules. The results are obtained in various collaborations
+with Q. Chen, B. Dirks, S. Olano and L. Song.
 </div>
 
 
