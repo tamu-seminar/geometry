@@ -23,13 +23,13 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
-| August 25, 2025   |  Justin Lacinit  | Texas A&M  | Logarithmic bounds on Fujita's conjecture | <span class="abstract-link" onclick="showAbstract('Lacini')">View Abstract</span>  |
+| August 25, 2025   |  Justin Lacini  | Texas A&M  | Logarithmic bounds on Fujita's conjecture | <span class="abstract-link" onclick="showAbstract('Lacini')">View Abstract</span>  |
 | August 29, 2025   |      |   | No seminar  |  (promotion talks)  |
 | September 5, 2025 |      |   | No seminar  | (promotion talks)    |
 | September 12, 2025|      |   | No seminar | (promotion talks)    |
 | September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
 | September 25, 2025| Jordy Lopez   | Notre Dame    |  TBA | Special time, Thursday 11-12 Bloc 605AX  |
-| October 6, 2025   | Debaditya Raychadhury | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
+| October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
 | October 10, 2025  |      |   |      |       |
 | October 17, 2025  |      |   |      |       |
 | October 24, 2025  |      |   |      |       |
