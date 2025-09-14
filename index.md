@@ -28,7 +28,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | September 5, 2025 |      |   | No seminar  | (promotion talks)    |
 | September 12, 2025|      |   | No seminar | (promotion talks)    |
 | September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
-| September 25, 2025| Jordy Lopez   | Notre Dame    |  TBA | Special time, Thursday 11-12 Bloc 605AX  |
+| September 25, 2025| Jordy Lopez   | Notre Dame    |  Toric compactifications of periodic graph operators | <span class="abstract-link" onclick="showAbstract('Lopez')">View Abstract</span>  Special time, Thursday 11-12 Bloc 605AX  |
 | October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
 | October 10, 2025  |      |   |      |       |
 | October 17, 2025  |      |   |      |       |
@@ -70,6 +70,22 @@ work of Angehrn, Siu, Helmke and others showed that the conjecture
 holds if $m$ is larger than a quadratic function in $n$. We show that for
 $n\geq 2$ the conjecture holds for $m$ larger than $n(\log\log(n)+3)$. This is
 joint work with L. Ghidelli.
+</div>
+
+
+
+<!-- Abstract content -->
+
+<div id="Lopez" style="display:none;">
+A periodic graph operator is a weighted Laplacian plus potential acting on functions on
+the vertices of a periodic graph. It is well-known that the spectrum of a periodic graph
+operator is the projection of an affine algebraic variety known as the Bloch
+variety. Motivated by Bättig, we compactify the Bloch variety of a periodic graph operator
+inside the normal toric variety associated to its Newton polytope. For a family of
+periodic graphs, we extend this operator to such toric variety by expressing the
+compactification as the support of a kernel sheaf. We outline a few spectral-theoretic
+consequences of this compactification. This is joint work with Matthew Faust (MSU),
+Stephen Shipman (LSU), and Frank Sottile.
 </div>
 
 
