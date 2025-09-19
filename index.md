@@ -27,8 +27,8 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | August 29, 2025   |      |   | No seminar  |  (promotion talks)  |
 | September 5, 2025 |      |   | No seminar  | (promotion talks)    |
 | September 12, 2025|      |   | No seminar | (promotion talks)    |
-| September 22, 2025| Matthew Faust | Michigan State |  Algebraic Geometry in the Study of the Eigenvalues of Discrete Periodic Operators|   <span class="abstract-link" onclick="showAbstract('Faust')">View Abstract</span>  ddd TBA     |
-| September 25, 2025| Jordy Lopez   | Notre Dame    |  Toric compactifications of periodic graph operators | <span class="abstract-link" onclick="showAbstract('Lopez')">View Abstract</span>  Special time, Thursday 11-12 Bloc 605AX  |
+| September 22, 2025| [Matthew Faust](https://mattfaust.github.io/) | Michigan State |  Algebraic Geometry in the Study of the Eigenvalues of Discrete Periodic Operators|   <span class="abstract-link" onclick="showAbstract('Faust')">View Abstract</span>   |
+| September 25, 2025| [Jordy Lopez](https://jordylopez27.github.io/)   | Notre Dame    |  Toric compactifications of periodic graph operators | <span class="abstract-link" onclick="showAbstract('Lopez')">View Abstract</span>  Special time, Thursday 11-12 Bloc 605AX  |
 | October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
 | October 10, 2025  |      |   |      |       |
 | October 17, 2025  |      |   |      |       |
