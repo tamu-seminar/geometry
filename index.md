@@ -27,7 +27,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | August 29, 2025   |      |   | No seminar  |  (promotion talks)  |
 | September 5, 2025 |      |   | No seminar  | (promotion talks)    |
 | September 12, 2025|      |   | No seminar | (promotion talks)    |
-| September 22, 2025| Matthew Faust | Michigan State |  TBA |  TBA     |
+| September 22, 2025| Matthew Faust | Michigan State |  Algebraic Geometry in the Study of the Eigenvalues of Discrete Periodic Operators|   <span class="abstract-link" onclick="showAbstract('Faust')">View Abstract</span>  ddd TBA     |
 | September 25, 2025| Jordy Lopez   | Notre Dame    |  Toric compactifications of periodic graph operators | <span class="abstract-link" onclick="showAbstract('Lopez')">View Abstract</span>  Special time, Thursday 11-12 Bloc 605AX  |
 | October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
 | October 10, 2025  |      |   |      |       |
@@ -70,6 +70,20 @@ work of Angehrn, Siu, Helmke and others showed that the conjecture
 holds if $m$ is larger than a quadratic function in $n$. We show that for
 $n\geq 2$ the conjecture holds for $m$ larger than $n(\log\log(n)+3)$. This is
 joint work with L. Ghidelli.
+</div>
+
+
+
+<!-- Abstract content -->
+
+<div id="Faust" style="display:none;">
+ Given a periodic graph $G$, we consider a class of discrete periodic operators given by the sum of a weighted adjacency
+ operator and a potential. We wish to study the spectrum of this operator acting on the Hilbert space of square-summable
+ functions on the vertices of $G$. By Floquet theory, the spectrum can be realized as the projection of a finite number of
+ band functions. If one of these band functions is constant, the operator is said to have a flat band, corresponding to
+ eigenvalues of infinite multiplicity. In this talk, we will introduce the relevant background and discuss recent results
+ that demonstrate that, generically, discrete periodic operators do not exhibit flat bands. This is based on joint work
+ with Wencai Liu.
 </div>
 
 
