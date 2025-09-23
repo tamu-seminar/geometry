@@ -36,8 +36,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | October 31, 2025  |      |   |      |       |
 | November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of M&uuml;nster  |       | Monday      |
 | November 14, 2025 |      |   |       |       |
-| November 21, 2025 |      |   |       |       |
-| November 28, 2025 |      |   |       |  No seminar (Thanksgiving)     |
+| November 21, 2025 |      |   |       |  No seminar       |
 | December 5, 2025  |      |   |       |       |
 
 
