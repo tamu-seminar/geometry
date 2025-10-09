@@ -30,11 +30,11 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | September 22, 2025| [Matthew Faust](https://mattfaust.github.io/) | Michigan State |  Algebraic Geometry in the Study of the Eigenvalues of Discrete Periodic Operators|   <span class="abstract-link" onclick="showAbstract('Faust')">View Abstract</span>   |
 | September 25, 2025| [Jordy Lopez](https://jordylopez27.github.io/)   | Notre Dame    |  Toric compactifications of periodic graph operators | <span class="abstract-link" onclick="showAbstract('Lopez')">View Abstract</span>  Special time, Thursday 11-12 Bloc 605AX  |
 | October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
+| October 17, 2025 |      |   |       | [Algebra and Combinatorics Seminar](https://tamu-seminar.github.io/alg-comb/)   |
 | October 24, 2025  | Nicklas Day   | Texas A&M  | Local Geometry of Distributions: Symplectification, Cartan Prolongation, and Maximality of Class  |  <span class="abstract-link" onclick="showAbstract('Day')">View Abstract</span>   |
 | October 31, 2025  |      |   |      |       |
 | November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of M&uuml;nster  |       | Monday      |
 | November 14, 2025 |      |   |       |       |
-| November 21, 2025 |      |   |       |  No seminar       |
 | December 5, 2025  |      |   |       |       |
 
 
