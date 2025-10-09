@@ -30,9 +30,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | September 22, 2025| [Matthew Faust](https://mattfaust.github.io/) | Michigan State |  Algebraic Geometry in the Study of the Eigenvalues of Discrete Periodic Operators|   <span class="abstract-link" onclick="showAbstract('Faust')">View Abstract</span>   |
 | September 25, 2025| [Jordy Lopez](https://jordylopez27.github.io/)   | Notre Dame    |  Toric compactifications of periodic graph operators | <span class="abstract-link" onclick="showAbstract('Lopez')">View Abstract</span>  Special time, Thursday 11-12 Bloc 605AX  |
 | October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
-| October 10, 2025  |      |   |      |       |
-| October 17, 2025  |      |   |      |       |
-| October 24, 2025  |      |   |      |       |
+| October 24, 2025  | Nicklas Day   | Texas A&M  | Local Geometry of Distributions: Symplectification, Cartan Prolongation, and Maximality of Class  |  <span class="abstract-link" onclick="showAbstract('Day')">View Abstract</span>   |
 | October 31, 2025  |      |   |      |       |
 | November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of M&uuml;nster  |       | Monday      |
 | November 14, 2025 |      |   |       |       |
@@ -44,12 +42,6 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 - [Departmental seminar website]() (not working as of Aug 13, 2025)
 - [Departmental website of the geometry and topology](https://artsci.tamu.edu/mathematics/research/geometry-and-topology/) (very out of date of Aug 13, 2025)
-
-
-
-
-
-
 
 
 
@@ -115,6 +107,28 @@ sufficiently positive. In particular, we will study the Du Bois
 complex of secant varieties and will also discuss about its local
 cohomology modules. The results are obtained in various collaborations
 with Q. Chen, B. Dirks, S. Olano and L. Song.
+</div>
+
+
+<!-- Abstract content -->
+
+<div id="Day" style="display:none;">
+ In 1970, N. Tanaka gave a method for assigning a canonical frame to distribution with constant Tanaka symbol.
+ In 2009, B. Doubrov and I. Zelenko utilized a symplectification procedure to obtain a canonical frame for distributions independent of their
+Tanaka symbol, but an additional condition called maximality of class was required of the
+distribution. In a work with I. Zelenko, we recently proved that all rank 2 distributions
+with 5-dimensional cube are of maximal class at a generic point; this allowed us to assign
+a canonical frame at a generic point to every rank 2 distribution which is not Goursat. In
+the rank 2 case, I will give an interpretation of the symplectification procedure in terms of
+a classical construction called Cartan prolongation. Time permitting, I will also sketch what
+is known about a collection of fundamental invariants called harmonic invariants in the case
+of rank 2 distributions in dimensions 6 and 7 along with differential relations called syzygies
+satisfied by these invariants.<br>
+
+In contrast to the rank 2 case, we found examples of rank 3 distributions with 6-dimensional
+square which are not of maximal class. In particular, I will present a (3, 8) distribution
+of nonmaximal class with 29-dimensional symmetry containing a semi-direct sum of the
+exceptional Lie group G_2 with a copy of its adjoint module.
 </div>
 
 
