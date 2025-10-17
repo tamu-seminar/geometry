@@ -41,7 +41,6 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 # Related Links
 
 - [Departmental seminar website]() (not working as of Aug 13, 2025)
-- [Departmental website of the geometry and topology](https://artsci.tamu.edu/mathematics/research/geometry-and-topology/) (very out of date of Aug 13, 2025)
 
 
 
