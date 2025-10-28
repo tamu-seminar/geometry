@@ -33,7 +33,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | October 17, 2025 |      |   |       | [Algebra and Combinatorics Seminar](https://tamu-seminar.github.io/alg-comb/)   |
 | October 24, 2025  | Nicklas Day   | Texas A&M  | Local Geometry of Distributions: Symplectification, Cartan Prolongation, and Maximality of Class  |  <span class="abstract-link" onclick="showAbstract('Day')">View Abstract</span>  Special time: 3-4 PM |
 | October 31, 2025  |      |   |      |       |
-| November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of M&uuml;nster  |       | Monday      |
+| November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of Munster  |  Scalar Curvature Comparison Geometry and Product Rigidity     | <span class="abstract-link" onclick="showAbstract('Tony')">View Abstract</span>      |
 | November 14, 2025 |      |   |       |       |
 | December 5, 2025  |      |   |       |       |
 
@@ -92,9 +92,6 @@ consequences of this compactification. This is joint work with Matthew Faust (MS
 Stephen Shipman (LSU), and Frank Sottile.
 </div>
 
-
-<!-- Abstract content -->
-
 <div id="Raychadhury" style="display:none;">
  Secant varieties are classical objects in algebraic
 geometry. Given a smooth projective variety inside a projective space,
@@ -108,8 +105,6 @@ cohomology modules. The results are obtained in various collaborations
 with Q. Chen, B. Dirks, S. Olano and L. Song.
 </div>
 
-
-<!-- Abstract content -->
 
 <div id="Day" style="display:none;">
  In 1970, N. Tanaka gave a method for assigning a canonical frame to distribution with constant Tanaka symbol.
@@ -128,6 +123,12 @@ In contrast to the rank 2 case, we found examples of rank 3 distributions with 6
 square which are not of maximal class. In particular, I will present a (3, 8) distribution
 of nonmaximal class with 29-dimensional symmetry containing a semi-direct sum of the
 exceptional Lie group G_2 with a copy of its adjoint module.
+</div>
+
+<div id="Tony" style="display:none;">
+In the late 1990s, Llarull proved that the round n-sphere is area-extremal in the sense that one cannot simultaneously increase its scalar curvature and its metric, confirming a rigidity phenomenon anticipated by Gromov. Goette and Semmelmann generalized Llarull’s rigidity result to certain area non-increasing spin maps $f: M \to N$ of nonzero $A$-degree, showing that under an appropriate lower bound on the scalar curvature, the map $f$ must be a Riemannian submersion.
+
+In this talk, I will give a brief introduction to scalar curvature comparison geometry and discuss several generalizations of the Goette–Semmelmann rigidity theorem. In particular, I will present a generalization in which the topological condition on the Â-degree is replaced by a weaker assumption involving the so-called higher mapping degree. I will also describe an ongoing joint project with Oskar Rieder, in which we strengthen the rigidity conclusion: the map $f$ is not only a Riemannian submersion, but the manifold M even splits locally as a Riemannian product of $N$ with a Ricci-flat manifold $F$.
 </div>
 
 
