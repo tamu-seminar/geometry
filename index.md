@@ -32,10 +32,10 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | October 6, 2025   | [Debaditya Raychadhury](https://rcdeba.github.io/) | University of Arizona  |   Singularities of Secant varieties   |   <span class="abstract-link" onclick="showAbstract('Raychadhury')">View Abstract</span>    |
 | October 17, 2025 |      |   |       | [Algebra and Combinatorics Seminar](https://tamu-seminar.github.io/alg-comb/)   |
 | October 24, 2025  | Nicklas Day   | Texas A&M  | Local Geometry of Distributions: Symplectification, Cartan Prolongation, and Maximality of Class  |  <span class="abstract-link" onclick="showAbstract('Day')">View Abstract</span>  Special time: 3-4 PM |
-| October 31, 2025  |      |   |      |       |
 | November 3, 2025  | [Thomas Tony](https://ttony.eu/)   | University of Münster  |  Scalar Curvature Comparison Geometry and Product Rigidity     | <span class="abstract-link" onclick="showAbstract('Tony')">View Abstract</span>      |
 | November 17, 2025 |  Algebra     | Group   |  Courses      | Discussion      |
-| December 5, 2025  |      |   |       |       |
+| November 21, 2025 |  No seminar     |   |       |       |
+| December 5, 2025  |  No seminar     |   |       |       |
 
 
 # Related Links
