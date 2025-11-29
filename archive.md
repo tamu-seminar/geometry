@@ -14,11 +14,11 @@ layout: default
 <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-svg.js" async></script>
 
 
-# Fall 2025
+## Fall 2025
 
-This seminar meets on Mondays 3:00-3:50 PM and Fridays 4:00-4:50 PM in Blocker 302.
+This seminar met on Mondays 3:00-3:50 PM and Fridays 4:00-4:50 PM in Blocker 302.
 
-The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
+The organizers were [Frank Sottile](https://franksottile.github.io/) and others.
 
 
 | Date         | Speaker | Affiliation| Title | Other |
@@ -36,16 +36,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | November 17, 2025 |  Algebra     | Group   |  Courses      | Discussion      |
 | November 21, 2025 |  No seminar     |   |       |       |
 | December 5, 2025  |  No seminar     |   |       |       |
-
-
-# Related Links
-
-- [Departmental seminar website]() (not working as of Aug 13, 2025)
-<!-- - [Seminar Archive](archive.md) -->
-
-
-
-
+[back](./)
 
 
 
@@ -63,6 +54,10 @@ $n\geq 2$ the conjecture holds for $m$ larger than $n(\log\log(n)+3)$. This is
 joint work with L. Ghidelli.
 </div>
 
+
+
+<!-- Abstract content -->
+
 <div id="Faust" style="display:none;">
  Given a periodic graph $G$, we consider a class of discrete periodic operators given by the sum of a weighted adjacency
  operator and a potential. We wish to study the spectrum of this operator acting on the Hilbert space of square-summable
@@ -72,10 +67,6 @@ joint work with L. Ghidelli.
  that demonstrate that, generically, discrete periodic operators do not exhibit flat bands. This is based on joint work
  with Wencai Liu.
 </div>
-
-
-
-<!-- Abstract content -->
 
 <div id="Lopez" style="display:none;">
 A periodic graph operator is a weighted Laplacian plus potential acting on functions on
@@ -126,6 +117,11 @@ In the late 1990s, Llarull proved that the round n-sphere is area-extremal in th
 
 In this talk, I will give a brief introduction to scalar curvature comparison geometry and discuss several generalizations of the Goette–Semmelmann rigidity theorem. In particular, I will present a generalization in which the topological condition on the Â-degree is replaced by a weaker assumption involving the so-called higher mapping degree. I will also describe an ongoing joint project with Oskar Rieder, in which we strengthen the rigidity conclusion: the map $f$ is not only a Riemannian submersion, but the manifold M even splits locally as a Riemannian product of $N$ with a Ricci-flat manifold $F$.
 </div>
+
+
+
+
+
 
 
 
