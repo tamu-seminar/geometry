@@ -17,7 +17,6 @@ layout: default
 ## Fall 2025
 
 This seminar met on Mondays 3:00-3:50 PM and Fridays 4:00-4:50 PM in Blocker 302.
-
 The organizers were [Frank Sottile](https://franksottile.github.io/) and others.
 
 
@@ -36,7 +35,6 @@ The organizers were [Frank Sottile](https://franksottile.github.io/) and others.
 | November 17, 2025 |  Algebra     | Group   |  Courses      | Discussion      |
 | November 21, 2025 |  No seminar     |   |       |       |
 | December 5, 2025  |  No seminar     |   |       |       |
-[back](./)
 
 
 
