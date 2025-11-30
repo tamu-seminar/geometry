@@ -37,11 +37,11 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | November 21, 2025 |  No seminar     |   |       |       |
 | December 5, 2025  |  No seminar     |   |       |       |
 
+<!-- # Past Seminars
+- [Fall 2025](2025_2.md) -->
 
-# Related Links
-
-- [Departmental seminar website]() (not working as of Aug 13, 2025)
-<!-- - [Seminar Archive](2025_2.md) -->
+<!-- # Related Links
+- [Departmental seminar website]() (not working as of Aug 13, 2025) -->
 
 
 
