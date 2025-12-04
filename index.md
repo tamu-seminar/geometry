@@ -22,12 +22,12 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
-| January 12, 2026 | | | | <button type="button" class="abstract-link" onclick="showAbstract('example')">View Abstract</button> |
+| January 12, 2026 | | First day of classes | | <button type="button" class="abstract-link" onclick="showAbstract('example')">View Abstract</button> |
 | January 16, 2026 | | | | |
 | January 19, 2026 | | | | |
 | January 23, 2026 | | | | |
 | January 26, 2026 | | | | |
-| January 30, 2026 | | | | |
+| January 30, 2026 | Ikenna Nometa | Georgia Tech | | |
 | February 2, 2026 | | | | |
 | February 6, 2026 | | | | |
 | February 9, 2026 | | | | |
@@ -38,24 +38,24 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 27, 2026 | | | | |
 | March 2, 2026 | | | | |
 | March 6, 2026 | | | | |
-| March 9, 2026 | | | | |
-| March 13, 2026 | | | | |
+| March 9, 2026 | | Spring Break | | |
+| March 13, 2026 | | Spring Break | | |
 | March 16, 2026 | | | | |
 | March 20, 2026 | | | | |
 | March 23, 2026 | | | | |
-| March 27, 2026 | | | | |
+| March 27, 2026 | | Geller Lecture? | | |
 | March 30, 2026 | | | | |
-| April 3, 2026 | | | | |
+| April 3, 2026 | | Good Friday | | |
 | April 6, 2026 | | | | |
 | April 10, 2026 | | | | |
 | April 13, 2026 | | | | |
-| April 17, 2026 | | | | |
+| April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
 | April 20, 2026 | | | | |
 | April 24, 2026 | | | | |
 | April 27, 2026 | | | | |
 
-<!-- # Past Seminars
-- [Fall 2025](2025_2.md) -->
+<!-- # Past Seminars  -->
+[Fall 2025](2025_2.md)
 
 
 
