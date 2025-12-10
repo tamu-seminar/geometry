@@ -22,7 +22,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
-| January 12, 2026 | | First day of classes | | <button type="button" class="abstract-link" onclick="showAbstract('example')">View Abstract</button> |
+| January 12, 2026 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) | Texas A&M | Ritz energy landscape is perfect (almost) Morse | <button type="button" class="abstract-link" onclick="showAbstract('Berkolaiko')">View Abstract</button> |
 | January 16, 2026 | | | | |
 | January 19, 2026 | | | | |
 | January 23, 2026 | | | | |
@@ -64,8 +64,35 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 <!-- Abstract content -->
 
-<div id="example" style="display:none;" aria-hidden="true">
-  <p>example abstract</p>
+<div id="Berkolaiko" style="display:none;" aria-hidden="true">
+  <p>The Rayleigh-Ritz method approximates the eigenvalues of a large
+Hermitian matrix $B$ with Ritz values, which are the eigenvalues of $B$'s
+restriction to a smaller trial subspace $S$.  We can view the $k$-th
+Ritz value as a real-valued function ("Ritz energy landscape") on the
+manifold of all possible s-dimensional trial subspaces, the
+Grassmannian $Gr_s(C^n)$ (or $Gr_s(R^n)$ for the real symmetric case).
+</p><p>
+Motivated by questions from quantum chemistry and spectral
+optimization, this talk explores the topology of the Ritz energy
+landscape. A Morse function is called "perfect" if it describes the
+topology of its domain in the most efficient way possible, meaning the
+number of its critical points of each type exactly matches the
+corresponding Betti number of the space.  We demonstrate that for a
+matrix $B$ with distinct eigenvalues, the Ritz landscape is indeed
+perfect. While the function itself is not everywhere smooth and its
+critical points are not isolated --- and not even Morse-Bott --- its
+critical structure is nevertheless well-defined and ultimately
+reflects the topology of the Grassmannian in a minimal, perfect way.
+</p><p>
+To be more precise, we show that the filtration of the Grassmannian by
+the sublevel sets of the $k$-th Ritz value is homologically perfect.
+The proof proceeds by introducing a suitable perturbation which
+ensures that points of non-smoothness are not critical (by a theorem
+of Zelenko and the presenter) and that the remaining smooth critical
+points are isolated.
+</p>
+<p>Based on a joint work with Mark Goresky (IAS).
+</p>
 </div>
 
 
