@@ -29,7 +29,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | January 26, 2026 | | | | |
 | January 30, 2026 | Ikenna Nometa | Georgia Tech | | |
 | February 2, 2026 | | | | |
-| February 6, 2026 | | | | |
+| February 6, 2026 | Jinhyung Park | KAIST | | |
 | February 9, 2026 | | | | |
 | February 13, 2026 | | | | |
 | February 16, 2026 | | | | |
