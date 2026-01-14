@@ -29,7 +29,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | January 19, 2026 | | | | |
 | January 23, 2026 | | | | |
 | January 26, 2026 | | | | |
-| January 30, 2026 |[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Berkolaiko')">View Abstract</button> |
+| January 30, 2026 |[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
 | February 2, 2026 | | | | |
 | February 6, 2026 | Jinhyung Park | KAIST | | |
 | February 9, 2026 | | | | |
