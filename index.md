@@ -94,7 +94,13 @@ points are isolated.
 <p>Based on a joint work with Mark Goresky (IAS).
 </p>
 </div>
+
+
+
 <!---------------------------------------------------------------------------------------------------->
+
+
+
 <div id="Nometa" style="display:none;" aria-hidden="true">
   <p>
 The study of the closest point(s) on a statistical model from a given distribution in the probability simplex with respect to a fixed Wasserstein metric yields a polyhedral norm-distance optimization problem.
@@ -107,7 +113,20 @@ If time permits, I will discuss our efforts to compute polar degrees for graphic
 <p>
 This talk is based on a joint work ([DOI: 10.2140/astat.2024.15.249](https://msp.org/astat/2024/15-2/astat-v15-n2-p05-s.pdf)) with Greg DePaul, Serkan Hoşten, and Nilava Metya
 </div>
+
+
+
+
+
 <!---------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
 
 <!-- Code that makes the pop-up windows -->
 
@@ -193,4 +212,3 @@ function escCloseHandler(e) {
   }
 }
 </script>
-
