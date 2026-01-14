@@ -27,7 +27,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | January 19, 2026 | | | | |
 | January 23, 2026 | | | | |
 | January 26, 2026 | | | | |
-| January 30, 2026 | [Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
+| January 30, 2026 | [Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <span class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</span> |
 | February 2, 2026 | | | | |
 | February 6, 2026 | Jinhyung Park | KAIST | | |
 | February 9, 2026 | | | | |
@@ -95,7 +95,7 @@ points are isolated.
 </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
-<div id="Berkolaiko" style="display:none;" aria-hidden="true">
+<div id="Nometa" style="display:none;" aria-hidden="true">
   <p>
 The study of the closest point(s) on a statistical model from a given distribution in the probability simplex with respect to a fixed Wasserstein metric yields a polyhedral norm-distance optimization problem.
 There are two components to the complexity of computing the Wasserstein distance between a data point and a model.
