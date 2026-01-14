@@ -113,7 +113,7 @@ In this talk, I will discuss the formulas for the polar degrees of rational norm
 If time permits, I will discuss our efforts to compute polar degrees for graphical models with four binary random variables, including the path on four vertices and the four-cycle, as well as for small, no-three-way-interaction models.
 </p>
 <p>
-This talk is based on a joint work ([DOI: 10.2140/astat.2024.15.249](https://msp.org/astat/2024/15-2/astat-v15-n2-p05-s.pdf)) with Greg DePaul, Serkan Hoşten, and Nilava Metya
+This talk is based on a joint work (<a href="https://msp.org/astat/2024/15-2/astat-v15-n2-p05-s.pdf">DOI: 10.2140/astat.2024.15.249</a>) with Greg DePaul, Serkan Hoşten, and Nilava Metya
 </p>
 </div>
 
