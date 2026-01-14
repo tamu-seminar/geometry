@@ -114,6 +114,7 @@ If time permits, I will discuss our efforts to compute polar degrees for graphic
 </p>
 <p>
 This talk is based on a joint work ([DOI: 10.2140/astat.2024.15.249](https://msp.org/astat/2024/15-2/astat-v15-n2-p05-s.pdf)) with Greg DePaul, Serkan Hoşten, and Nilava Metya
+</p>
 </div>
 
 
