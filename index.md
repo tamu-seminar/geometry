@@ -100,7 +100,7 @@ points are isolated.
   <p>
 An  important special  case of  Schubert calculus  for the  Grassmannian
 concerns flags osculating the rational normal curve, which is equivalent
-to the  Bethe Ansatz  in the  Gaudin model for  $\mathfrak{gl}_n$.  The  most natural
+to the  Bethe Ansatz  in the  Gaudin model for  $\mathfrak{gl}_d$.  The  most natural
 family of  these problems are  indexed by partitions $\lambda$.   Liao and
 Rybnikov  recently studied  a subgroup  of the  monodromy group  for the
 Bethe Ansatz  equivalent to the action  of the cactus group  on standard
