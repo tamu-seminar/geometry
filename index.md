@@ -26,7 +26,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 |--------------|---------|------------|-------|-------|
 | January 12, 2026 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) | Texas A&M | Ritz energy landscape is perfect (almost) Morse | <button type="button" class="abstract-link" onclick="showAbstract('Berkolaiko')">View Abstract</button> |
 | January 19, 2026 |  | MLK Day | | |
-| January 23, 2026 | | | | |
+| January 23, 2026 | [Frank Sottile](https://franksottile.github.io/) |Texas A&M | Monodromy in the Osculating Schubert Calculus | <button type="button" class="abstract-link" onclick="showAbstract('Sottile')">View Abstract</button>  |
 | January 26, 2026 | | | | |
 | January 30, 2026 |[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
 | February 2, 2026 | | | | |
@@ -94,11 +94,29 @@ points are isolated.
 </p>
 </div>
 
-
-
 <!---------------------------------------------------------------------------------------------------->
 
+<div id="Sottile" style="display:none;" aria-hidden="true">
+  <p>
+An  important special  case of  Schubert calculus  for the  Grassmannian
+concerns flags osculating the rational normal curve, which is equivalent
+to the  Bethe Ansatz  in the  Gaudin model for  $\mathfrak{gl}_n$.  The  most natural
+family of  these problems are  indexed by partitions $\lambda$.   Liao and
+Rybnikov  recently studied  a subgroup  of the  monodromy group  for the
+Bethe Ansatz  equivalent to the action  of the cactus group  on standard
+Young tableau of shape $\lambda$.  When $\lambda$ is a hook or is symmetric,
+they  showed that  it  was  not 2-transitive,  but  was otherwise  giant
+(contains the alternating group).
+</p>
+<p>
+I will describe  this background and then give  some geometric arguments
+which  refine their  work on  hooks and  symmetric partitions,  and then
+[resent  some computational  evidence that  Harris's principle  holds in
+that the monodromy is a large as possible.
+</p>
+</div>
 
+<!---------------------------------------------------------------------------------------------------->
 
 <div id="Nometa" style="display:none;" aria-hidden="true">
   <p>
