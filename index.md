@@ -48,11 +48,11 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 30, 2026 | | | | |
 | April 3, 2026 | | Good Friday | | |
 | April 6, 2026 | | | | |
-| April 10, 2026 | | | | |
+| April 10, 2026 | Nathan Chen | Harvard | | |
 | April 13, 2026 | | | | |
 | April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
 | April 20, 2026 | | | | |
-| April 24, 2026 | | | | |
+| April 24, 2026 | Iacopo Brivio | CMSA Harvard | | |
 | April 27, 2026 | | | | |
 
 <!-- # Past Seminars  -->
