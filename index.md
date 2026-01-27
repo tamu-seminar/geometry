@@ -36,7 +36,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 16, 2026 | | | | |
 | February 20, 2026 | | | | |
 | February 23, 2026 | | | | |
-| February 27, 2026 | | | | |
+| February 27, 2026 | Monica Kang| TAMU Physics| | |
 | March 2, 2026 | | | | |
 | March 6, 2026 | | | | |
 | March 9, 2026 | | Spring Break | | |
