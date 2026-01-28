@@ -36,7 +36,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 16, 2026 | | | | |
 | February 20, 2026 | | | | |
 | February 23, 2026 | | | | |
-| February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), 6 PM, Blocker 117 | |
+| February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
 | February 27, 2026 | Monica Kang| TAMU Physics| | |
 | March 2, 2026 | | | | |
 | March 6, 2026 | | | | |
