@@ -36,6 +36,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 16, 2026 | | | | |
 | February 20, 2026 | | | | |
 | February 23, 2026 | | | | |
+| February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home), 6 PM, Blocker 117 | |
 | February 27, 2026 | Monica Kang| TAMU Physics| | |
 | March 2, 2026 | | | | |
 | March 6, 2026 | | | | |
@@ -44,7 +45,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 16, 2026 | | | | |
 | March 20, 2026 | | | | |
 | March 23, 2026 | | | | |
-| March 27, 2026 | | Geller Lecture? | | |
+| March 27, 2026 | | | | |
 | March 30, 2026 | | | | |
 | April 3, 2026 | | Good Friday | | |
 | April 6, 2026 | | | | |
@@ -111,7 +112,7 @@ they  showed that  it  was  not 2-transitive,  but  was otherwise  giant
 <p>
 I will describe  this background and then give  some geometric arguments
 which  refine their  work on  hooks and  symmetric partitions,  and then
-[resent  some computational  evidence that  Harris's principle  holds in
+present  some computational  evidence that  Harris's principle  holds in
 that the monodromy is a large as possible.  This is based on joint work with Leonid Rybnikov (UdeM).
 </p>
 </div>
