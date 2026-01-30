@@ -27,8 +27,8 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | January 12, 2026 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) | Texas A&M | Ritz energy landscape is perfect (almost) Morse | <button type="button" class="abstract-link" onclick="showAbstract('Berkolaiko')">View Abstract</button> |
 | January 19, 2026 |  | MLK Day | | |
 | January 23, 2026 | [Frank Sottile](https://franksottile.github.io/) |Texas A&M | Monodromy in the Osculating Schubert Calculus | <button type="button" class="abstract-link" onclick="showAbstract('Sottile')">View Abstract</button>  |
-| January 26, 2026 | | | | |
-| January 30, 2026 |[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
+| January 30, 2026 3:00 PM |[Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) | Florida |Curvature, Macroscopic Dimensions, and Symmetric Product of Curves |  <button type="button" class="abstract-link" onclick="showAbstract('DiCerbo')">View Abstract</button>|
+| January 30, 2026 4:00 PM|[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
 | February 2, 2026 | | | | |
 | February 6, 2026 | Jinhyung Park | KAIST | | |
 | February 9, 2026 | | | | |
@@ -119,6 +119,17 @@ that the monodromy is a large as possible.  This is based on joint work with Leo
 
 <!---------------------------------------------------------------------------------------------------->
 
+<div id="DiCerbo" style="display:none;" aria-hidden="true">
+  <p>
+n this talk, I will present a detailed study of the curvature and symplectic asphericity properties of symmetric products of curves. I show that these spaces can be used to answer nuanced questions arising in the study of closed Riemannian manifolds with positive scalar curvature. For example, symmetric products of curves sharply distinguish between two distinct notions of macroscopic dimension introduced by Gromov and Dranishnikov. As a natural generalization of this circle of ideas, I will also address the Gromov–Lawson and Gromov conjectures in the Kaehler projective setting and draw new connections between the theories of the minimal model, positivity in algebraic geometry, and macroscopic dimensions. This is joint work with Alexander Dranishnikov and Ekansh Jauhari.
+</p>
+</div>
+
+<!---------------------------------------------------------------------------------------------------->
+
+
+<!---------------------------------------------------------------------------------------------------->
+
 <div id="Nometa" style="display:none;" aria-hidden="true">
   <p>
 The study of the closest point(s) on a statistical model from a given distribution in the probability simplex with respect to a fixed Wasserstein metric yields a polyhedral norm-distance optimization problem.
@@ -132,10 +143,6 @@ If time permits, I will discuss our efforts to compute polar degrees for graphic
 This talk is based on a joint work (<a href="https://msp.org/astat/2024/15-2/astat-v15-n2-p05-s.pdf">DOI: 10.2140/astat.2024.15.249</a>) with Greg DePaul, Serkan Hoşten, and Nilava Metya
 </p>
 </div>
-
-
-
-
 
 <!---------------------------------------------------------------------------------------------------->
 
