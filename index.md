@@ -29,13 +29,11 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | January 23, 2026 | [Frank Sottile](https://franksottile.github.io/) |Texas A&M | Monodromy in the Osculating Schubert Calculus | <button type="button" class="abstract-link" onclick="showAbstract('Sottile')">View Abstract</button>  |
 | January 30, 2026 3:00 PM |[Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) | Florida |Curvature, Macroscopic Dimensions, and Symmetric Product of Curves |  <button type="button" class="abstract-link" onclick="showAbstract('DiCerbo')">View Abstract</button>|
 | January 30, 2026 4:00 PM|[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
-| February 2, 2026 | | | | |
 | February 6, 2026 | Jinhyung Park | KAIST | Determinantal ideals of secant varieties |<button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button>  |
-| February 9, 2026 | | | | |
 | February 13, 2026 | | | | |
 | February 16, 2026 | | | | |
 | February 20, 2026 | | | | |
-| February 23, 2026 | | | | |
+| February 23, 2026 |  Jie Xu | Northeastern University | TBA | |
 | February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
 | February 27, 2026 | Monica Kang| TAMU Physics| | |
 | March 2, 2026 | | | | |
