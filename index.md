@@ -40,8 +40,8 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 6, 2026 | | | | |
 | March 9, 2026 | | Spring Break | | |
 | March 13, 2026 | | Spring Break | | |
-| March 16, 2026 | | | | |
-| March 20, 2026 | | | | |
+| March 16, 2026 | Shrawn Kumar | UNC Chapel Hill | | |
+| March 20, 2026 | Suhas Gondi| UC San Diego | | |
 | March 23, 2026 | | | | |
 | March 27, 2026 | | | | |
 | March 30, 2026 | | | | |
