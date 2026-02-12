@@ -35,7 +35,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 23, 2026 |  Jie Xu | Northeastern University | TBA | |
 | February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
 | February 27, 2026 | Monica Kang| TAMU Physics| | |
-| March 2, 2026 |  [Frank Sottile](https://franksottile.github.io/) | Texas A&M | Welschinger signs and Webs of maximally inflected curves | |
+| March 2, 2026 |  [Frank Sottile](https://franksottile.github.io/) | Texas A&M | Welschinger signs and Webs of maximally inflected curves | <button type="button" class="abstract-link" onclick="showAbstract('Sottile2')">View Abstract</button> |
 | March 6, 2026 | | | | |
 | March 9, 2026 | | Spring Break | | |
 | March 13, 2026 | | Spring Break | | |
@@ -158,6 +158,24 @@ This talk is based on a joint work (<a href="https://msp.org/astat/2024/15-2/ast
 
 
 
+
+<!---------------------------------------------------------------------------------------------------->
+
+<div id="Sottile2" style="display:none;" aria-hidden="true">
+  <p>
+
+</p>
+A 3-dimensional subspace $f$ of real polynomials defines a map $f\colon {\mathbb P}^1 \to {\mathbb P}^2$ whose image is a rational plane curve.
+It is maximally inflected when all of its flexes are real, equivalently, when its Wronski determinant has only real roots.
+WE associate two {\it a priori} distinct signs ($\pm 1$) to $f$: the Welschinger invariant of the rational curve and the degree of
+the Wronski map at $f$.   Extensive computation suggests that these signs coincide.   While studying the conjecture,
+we were led to a deeper conjecture:  We define a mixed Wronskian, a function ${\mathbb P}^1 \to {\mathbb P}^$.  The 
+inverse image of the positive reals encodes the real geometry of $f$ and conjecturally is an object called a web.
+We conjecture that known bijections between webs and standard Young tableaux and between tableaux with maximally inflected curves 
+recovers the curve.
+<p>
+</p>
+</div>
 
 
 
