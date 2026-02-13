@@ -169,11 +169,14 @@ A 3-dimensional subspace $f$ of real polynomials defines a map $f\colon {\mathbb
 It is maximally inflected when all of its flexes are real, equivalently, when its Wronski determinant has only real roots.
 WE associate two {\it a priori} distinct signs ($\pm 1$) to $f$: the Welschinger invariant of the rational curve and the degree of
 the Wronski map at $f$.   Extensive computation suggests that these signs coincide.   While studying the conjecture,
-we were led to a deeper conjecture:  We define a mixed Wronskian, a function ${\mathbb P}^1 \to {\mathbb P}^$.  The 
+we were led to a deeper conjecture:  We define a mixed Wronskian, a function ${\mathbb P}^1 \to {\mathbb P}^1$.  The 
 inverse image of the positive reals encodes the real geometry of $f$ and conjecturally is an object called a web.
 We conjecture that known bijections between webs and standard Young tableaux and between tableaux with maximally inflected curves 
 recovers the curve.
 <p>
+This talk will explain this  picture with compelling evidence and beautiful
+<a href="https://franksottile.github.io/research/stories/webs/42.html">pictures</a>.  It  is joint  work with Brazelton,  Karp, Le,
+Levinson, McKean,  Peltola, and Speyer.
 </p>
 </div>
 
