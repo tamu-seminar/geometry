@@ -34,7 +34,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 20, 2026 | | | | |
 | February 23, 2026 |  Jie Xu | Northeastern University | A Series of Rosenberg-Stolz Conjectures |  <button type="button" class="abstract-link" onclick="showAbstract('JieXu')">View Abstract</button>|
 | February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
-| February 27, 2026 | Monica Kang| TAMU Physics|Index from a point | |
+| February 27, 2026 | Monica Kang| TAMU Physics|Index from a point |  <button type="button" class="abstract-link" onclick="showAbstract('Kang')">View Abstract</button> |
 | March 2, 2026 |  [Frank Sottile](https://franksottile.github.io/) | Texas A&M | Welschinger signs and Webs of maximally inflected curves | <button type="button" class="abstract-link" onclick="showAbstract('Sottile2')">View Abstract</button> |
 | March 6, 2026 | | | | |
 | March 9, 2026 | | Spring Break | | |
@@ -163,23 +163,26 @@ There are two classical methods to study this type of problem: one is the method
 In this talk, we introduce a different, conformal geometry and PDE approach to partially answer a series of Rosenberg-Stolz conjectures, and Gromov-Lawson type scalar and mean curvature comparison results for all dimensions from "transposing the positivity" point of view. We also show its application in complex geometry. Some of my work involves collaboration with S. Rosenberg.
 </p>
 </div>
+<!---------------------------------------------------------------------------------------------------->
 
+<!---------------------------------------------------------------------------------------------------->
+<div id="Kang" style="display:none;" aria-hidden="true">
+  <p>
+ We argue that protected data of $4d$ $N=2$ SCFTs admits a purely algebro-geometric characterization. We conjecture that both the Macdonald index (and hence the Schur index) and the Higgs branch are encoded by a bifiltered affine scheme determined by OPE nilpotency and decoupling relations. Focusing on Argyres–Douglas theories, where the Higgs branch is a point, we show that this geometric construction suffices to reconstruct the full Macdonald index. This is based on recent works with Craig Lawrie and Jaewon Song.
+</p>
+</p>
+</div>
 <!---------------------------------------------------------------------------------------------------->
 
 
-
-
-
-
 <!---------------------------------------------------------------------------------------------------->
-
 <div id="Sottile2" style="display:none;" aria-hidden="true">
   <p>
 
 </p>
 A 3-dimensional subspace $f$ of real polynomials defines a map $f\colon {\mathbb P}^1 \to {\mathbb P}^2$ whose image is a rational plane curve.
 It is maximally inflected when all of its flexes are real, equivalently, when its Wronski determinant has only real roots.
-WE associate two {\it a priori} distinct signs ($\pm 1$) to $f$: the Welschinger invariant of the rational curve and the degree of
+We associate two {\it a priori} distinct signs ($\pm 1$) to $f$: the Welschinger invariant of the rational curve and the degree of
 the Wronski map at $f$.   Extensive computation suggests that these signs coincide.   While studying the conjecture,
 we were led to a deeper conjecture:  We define a mixed Wronskian, a function ${\mathbb P}^1 \to {\mathbb P}^1$.  The 
 inverse image of the positive reals encodes the real geometry of $f$ and conjecturally is an object called a web.
@@ -191,7 +194,7 @@ This talk will explain this  picture with compelling evidence and beautiful
 Levinson, McKean,  Peltola, and Speyer.
 </p>
 </div>
-
+<!---------------------------------------------------------------------------------------------------->
 
 
 
