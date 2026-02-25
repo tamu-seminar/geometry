@@ -34,7 +34,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 20, 2026 | | | | |
 | February 23, 2026 |  Jie Xu | Northeastern University | A Series of Rosenberg-Stolz Conjectures |  <button type="button" class="abstract-link" onclick="showAbstract('JieXu')">View Abstract</button>|
 | February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
-| February 27, 2026 | Monica Kang| TAMU Physics| | |
+| February 27, 2026 | Monica Kang| TAMU Physics|Index from a point | |
 | March 2, 2026 |  [Frank Sottile](https://franksottile.github.io/) | Texas A&M | Welschinger signs and Webs of maximally inflected curves | <button type="button" class="abstract-link" onclick="showAbstract('Sottile2')">View Abstract</button> |
 | March 6, 2026 | | | | |
 | March 9, 2026 | | Spring Break | | |
