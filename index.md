@@ -30,8 +30,6 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | January 30, 2026 3:00 PM |[Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) | Florida |Curvature, Macroscopic Dimensions, and Symmetric Product of Curves |  <button type="button" class="abstract-link" onclick="showAbstract('DiCerbo')">View Abstract</button>|
 | January 30, 2026 4:00 PM|[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
 | February 6, 2026 | Jinhyung Park | KAIST | Determinantal ideals of secant varieties |<button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button>  |
-| February 16, 2026 | | | | |
-| February 20, 2026 | | | | |
 | February 23, 2026 |  Jie Xu | Northeastern University | A Series of Rosenberg-Stolz Conjectures |  <button type="button" class="abstract-link" onclick="showAbstract('JieXu')">View Abstract</button>|
 | February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
 | February 27, 2026 | Monica Kang| TAMU Physics|Index from a point |  <button type="button" class="abstract-link" onclick="showAbstract('Kang')">View Abstract</button> |
@@ -40,7 +38,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 9, 2026 | | Spring Break | | |
 | March 13, 2026 | | Spring Break | | |
 | March 16, 2026 | Shrawn Kumar | UNC Chapel Hill | | |
-| March 20, 2026 | Suhas Gondi| UC San Diego | Border Rank Lower Bounds for Families of GL(V)-invariant Tensors| |
+| March 20, 2026 | Suhas Gondi| UC San Diego | Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button>  |
 | March 23, 2026 | | | | |
 | March 27, 2026 | | | | |
 | March 30, 2026 | | | | |
@@ -170,7 +168,6 @@ In this talk, we introduce a different, conformal geometry and PDE approach to p
   <p>
  We argue that protected data of $4d$ $N=2$ SCFTs admits a purely algebro-geometric characterization. We conjecture that both the Macdonald index (and hence the Schur index) and the Higgs branch are encoded by a bifiltered affine scheme determined by OPE nilpotency and decoupling relations. Focusing on Argyres–Douglas theories, where the Higgs branch is a point, we show that this geometric construction suffices to reconstruct the full Macdonald index. This is based on recent works with Craig Lawrie and Jaewon Song.
 </p>
-</p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
 
@@ -179,7 +176,6 @@ In this talk, we introduce a different, conformal geometry and PDE approach to p
 <div id="Sottile2" style="display:none;" aria-hidden="true">
   <p>
 
-</p>
 A 3-dimensional subspace $f$ of real polynomials defines a map $f\colon {\mathbb P}^1 \to {\mathbb P}^2$ whose image is a rational plane curve.
 It is maximally inflected when all of its flexes are real, equivalently, when its Wronski determinant has only real roots.
 We associate two {\it a priori} distinct signs ($\pm 1$) to $f$: the Welschinger invariant of the rational curve and the degree of
@@ -187,7 +183,7 @@ the Wronski map at $f$.   Extensive computation suggests that these signs coinci
 we were led to a deeper conjecture:  We define a mixed Wronskian, a function ${\mathbb P}^1 \to {\mathbb P}^1$.  The 
 inverse image of the positive reals encodes the real geometry of $f$ and conjecturally is an object called a web.
 We conjecture that known bijections between webs and standard Young tableaux and between tableaux with maximally inflected curves 
-recovers the curve.
+recovers the curve.</p>
 <p>
 This talk will explain this  picture with compelling evidence and beautiful
 <a href="https://franksottile.github.io/research/stories/webs/42.html">pictures</a>.  It  is joint  work with Brazelton,  Karp, Le,
@@ -196,6 +192,20 @@ Levinson, McKean,  Peltola, and Speyer.
 </div>
 <!---------------------------------------------------------------------------------------------------->
 
+
+<!---------------------------------------------------------------------------------------------------->
+<div id="Gondi" style="display:none;" aria-hidden="true">
+  <p>
+  The border rank of tensors is a widely studied topic with practical applications to theoretical computer science and algebraic statistics.
+  Lower bounds on the border rank of the matrix multiplication tensor were obtained using techniques from representation theory and
+  algebraic geometry.
+  In this talk, we will prove non-trivial border rank lower bounds for a class of $GL(V)$-invariant tensors
+  using Young flattenings constructed by Wu.
+  We will see how this comes down to proving results on ranks of certain maps between Schur functors,
+  the proofs of which surprisingly use deep results in representation theory and commutative algebra 
+</p>
+</div>
+<!---------------------------------------------------------------------------------------------------->
 
 
 <!-- Code that makes the pop-up windows -->
