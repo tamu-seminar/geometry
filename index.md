@@ -38,7 +38,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 9, 2026 | | Spring Break | | |
 | March 13, 2026 | | Spring Break | | |
 | March 16, 2026 | Shrawn Kumar | UNC Chapel Hill | Conjectural Positivity for Pontryagin Product in Equivariant
-K-theory of Loop Groups| |
+K-theory of Loop Groups|  Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Kumar')">View Abstract</button> |
 | March 20, 2026 | Suhas Gondi| UC San Diego | Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button>  |
 | March 23, 2026 | | | | |
 | March 27, 2026 | | | | |
@@ -189,6 +189,22 @@ recovers the curve.</p>
 This talk will explain this  picture with compelling evidence and beautiful
 <a href="https://franksottile.github.io/research/stories/webs/42.html">pictures</a>.  It  is joint  work with Brazelton,  Karp, Le,
 Levinson, McKean,  Peltola, and Speyer.
+</p>
+</div>
+<!---------------------------------------------------------------------------------------------------->
+
+
+<!---------------------------------------------------------------------------------------------------->
+<div id="Kumar" style="display:none;" aria-hidden="true">
+<p>
+
+ Let $G$ be a connected simply-connected simple algebraic group over $\mathbb{C}$ and let $T$ be  a maximal torus, $B\supset T$ a Borel subgroup   and $K$  a maximal compact subgroup. Then, the product in the (algebraic) based loop group $\Omega(K)$  gives rise to a comultiplication in the topological $T$-equivariant $K$-ring $K_T^{\rm{top}}(\Omega(K))$. Recall that   $\Omega(K)$ is identified with the affine Grassmannian $\mathcal{X}$ (of $G$) and hence we get a comultiplication in 
+$ K_T^{\rm{top}}(\mathcal{X})$. Dualizing, one gets the Pontryagin product in the $T$-equivariant $K$-homology $K^T_0(\mathcal{X})$, which in-turn gets identified with the convolution product (due to S. Kato).  
+Now, $ K_T^{\rm{top}}(\mathcal{X})$ has a basis $\{\xi^w\}$ over the representation ring $R(T)$  
+given by the ideal sheaves corresponding to the finite codimension Schubert varieties $X^w$ in $\mathcal{X}$. We make a positivity conjecture  on the comultiplication structure constants in the above basis. Using some results of  Kato, this conjecture gives rise to an equivalent conjecture on the positivity of the multiplicative structure constants in $T$-equivariant quantum $K$-theory $QK_T(G/B)$ in the Schubert basis Let $G$ be a connected simply-connected simple algebraic group over $\mathbb{C}$ and let $T$ be  a maximal torus, $B\supset T$ a Borel subgroup   and $K$  a maximal compact subgroup. Then, the product in the (algebraic) based loop group $\Omega(K)$  gives rise to a comultiplication in the topological $T$-equivariant $K$-ring $K_T^{\rm{top}}(\Omega(K))$. Recall that   $\Omega(K)$ is identified with the affine Grassmannian $\mathcal{X}$ (of $G$) and hence we get a comultiplication in 
+$ K_T^{\rm{top}}(\mathcal{X})$. Dualizing, one gets the Pontryagin product in the $T$-equivariant $K$-homology $K^T_0(\mathcal{X})$, which in-turn gets identified with the convolution product (due to S. Kato).  
+Now, $ K_T^{\rm{top}}(\mathcal{X})$ has a basis $\{\xi^w\}$ over the representation ring $R(T)$  
+given by the ideal sheaves corresponding to the finite codimension Schubert varieties $X^w$ in $\mathcal{X}$. We make a positivity conjecture  on the comultiplication structure constants in the above basis. Using some results of  Kato, this conjecture gives rise to an equivalent conjecture on the positivity of the multiplicative structure constants in $T$-equivariant quantum $K$-theory $QK_T(G/B)$ in the Schubert basis
 </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
