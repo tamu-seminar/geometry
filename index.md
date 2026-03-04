@@ -38,8 +38,8 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 9, 2026 | | Spring Break | | |
 | March 13, 2026 | | Spring Break | | |
 | March 16, 2026 | Shrawn Kumar | UNC Chapel Hill | Conjectural Positivity for Pontryagin Product in Equivariant K-theory of Loop Groups|  <button type="button" class="abstract-link" onclick="showAbstract('Kumar')">View Abstract</button> |
-| March 20, 2026 | Suhas Gondi| UC San Diego | Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button>  |
-| March 23, 2026 | | | | |
+| March 20, 2026 | |  |  |
+| March 23, 2026 |Suhas Gondi | UC San Diego| Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button> | |
 | March 27, 2026 | | | | |
 | March 30, 2026 | | | | |
 | April 3, 2026 | | Good Friday | | |
