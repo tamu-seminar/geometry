@@ -43,7 +43,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 27, 2026 | | | | |
 | March 30, 2026 | | | | |
 | April 3, 2026 | | Good Friday | | |
-| April 6, 2026 | | | | |
+| April 6, 2026 |JM Landsberg | TAMU| Centroids and matrix multiplication | |
 | April 10, 2026 | Nathan Chen | Harvard | | |
 | April 13, 2026 | | | | |
 | April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
