@@ -34,16 +34,12 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
 | February 27, 2026 | Monica Kang| TAMU Physics|Index from a point |  <button type="button" class="abstract-link" onclick="showAbstract('Kang')">View Abstract</button> |
 | March 2, 2026 |  [Frank Sottile](https://franksottile.github.io/) | Texas A&M | Welschinger signs and Webs of maximally inflected curves | <button type="button" class="abstract-link" onclick="showAbstract('Sottile2')">View Abstract</button> |
-| March 6, 2026 | | | | |
 | March 9, 2026 | | Spring Break | | |
 | March 13, 2026 | | Spring Break | | |
 | March 16, 2026 | Shrawn Kumar | UNC Chapel Hill | Conjectural Positivity for Pontryagin Product in Equivariant K-theory of Loop Groups|  <button type="button" class="abstract-link" onclick="showAbstract('Kumar')">View Abstract</button> |
-| March 20, 2026 | |  |  |
 | March 23, 2026 |Suhas Gondi | UC San Diego| Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button> | |
-| March 27, 2026 | | | | |
-| March 30, 2026 | | | | |
 | April 3, 2026 | | Good Friday | | |
-| April 6, 2026 |JM Landsberg | TAMU| Centroids and matrix multiplication | |
+| April 6, 2026 |JM Landsberg | TAMU| Centroids and matrix multiplication | <button type="button" class="abstract-link" onclick="showAbstract('JML')">View Abstract</button |
 | April 10, 2026 | Nathan Chen | Harvard | | |
 | April 13, 2026 | | | | |
 | April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
@@ -219,6 +215,19 @@ given by the ideal sheaves corresponding to the finite codimension Schubert vari
   using Young flattenings constructed by Wu.
   We will see how this comes down to proving results on ranks of certain maps between Schur functors,
   the proofs of which surprisingly use deep results in representation theory and commutative algebra 
+</p>
+</div>
+<!---------------------------------------------------------------------------------------------------->
+
+
+
+<!---------------------------------------------------------------------------------------------------->
+<div id="JML" style="display:none;" aria-hidden="true">
+  <p>
+   A fundamental invariant of tensor is its centroid. It contains important information
+   about both the complexity of a tensor and its symmetries. I will explain the connection
+    between centroids, geometry and symmetry as well as  very recent developments.
+    This is work in progress with Martin Kassabov, Victor Sousza and Phillip Speegle.
 </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
