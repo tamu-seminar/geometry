@@ -40,7 +40,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | March 23, 2026 |Suhas Gondi | UC San Diego| Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button> | |
 | April 3, 2026 | | Good Friday | | |
 | April 6, 2026 |JM Landsberg | TAMU| Centroids and matrix multiplication | <button type="button" class="abstract-link" onclick="showAbstract('JML')">View Abstract</button |
-| April 10, 2026 | Nathan Chen | Harvard | | |
+| April 10, 2026 | Nathan Chen | Harvard | Characterizing algebraic varieties through symmetries | <button type="button" class="abstract-link" onclick="showAbstract('NC')">View Abstract</button|
 | April 13, 2026 | | | | |
 | April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
 | April 20, 2026 | | | | |
@@ -228,6 +228,14 @@ given by the ideal sheaves corresponding to the finite codimension Schubert vari
    about both the complexity of a tensor and its symmetries. I will explain the connection
     between centroids, geometry and symmetry as well as  very recent developments.
     This is work in progress with Martin Kassabov, Victor Sousza and Phillip Speegle.
+</p>
+</div>
+<!---------------------------------------------------------------------------------------------------->
+
+<!---------------------------------------------------------------------------------------------------->
+<div id="NC" style="display:none;" aria-hidden="true">
+  <p>
+   The goal of this talk is to explore what the group of birational automorphisms can say about a variety. We will then focus on the case of algebraic varieties that birationally split off a copy of projective space. This is joint work with L. Esser, A. Regeta, C. Urech, and I. van Santen.
 </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
