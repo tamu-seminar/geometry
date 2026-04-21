@@ -44,7 +44,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | April 13, 2026 | | | | |
 | April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
 | April 20, 2026 | | | | |
-| April 24, 2026 | Iacopo Brivio | CMSA Harvard | | |
+| April 24, 2026 | Iacopo Brivio | CMSA Harvard | Non extendable MMPs | <button type="button" class="abstract-link" onclick="showAbstract('Brivio')">View Abstract</button> |
 | April 27, 2026 | | | | |
 
 <!-- # Past Seminars  -->
@@ -236,6 +236,14 @@ given by the ideal sheaves corresponding to the finite codimension Schubert vari
 <div id="NC" style="display:none;" aria-hidden="true">
   <p>
    The goal of this talk is to explore what the group of birational automorphisms can say about a variety. We will then focus on the case of algebraic varieties that birationally split off a copy of projective space. This is joint work with L. Esser, A. Regeta, C. Urech, and I. van Santen.
+</p>
+</div>
+<!---------------------------------------------------------------------------------------------------->
+
+<!---------------------------------------------------------------------------------------------------->
+<div id="Brivio" style="display:none;" aria-hidden="true">
+  <p>
+    It was observed by Kollár that the moduli functor of stable varieties in characteristic p>0 is no longer proper when one considers varieties of dimension $\geq 3$. The key point is the existence of families of plt good minimal models of general type for which taking the relative canonical model does not commute with base change. I am going to illustrate an example showing that this kind of pathological behavior is not limited to the relative canonical model, but can indeed occur for any step of the relative MMP. In particular, flips do not always extend from the central fiber of a family, even when the corresponding small contraction does.
 </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
