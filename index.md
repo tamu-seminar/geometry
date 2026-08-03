@@ -24,228 +24,48 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
-| January 12, 2026 | [Gregory Berkolaiko](https://people.tamu.edu/~gberkolaiko/) | Texas A&M | Ritz energy landscape is perfect (almost) Morse | <button type="button" class="abstract-link" onclick="showAbstract('Berkolaiko')">View Abstract</button> |
-| January 19, 2026 |  | MLK Day | | |
-| January 23, 2026 | [Frank Sottile](https://franksottile.github.io/) |Texas A&M | Monodromy in the Osculating Schubert Calculus | <button type="button" class="abstract-link" onclick="showAbstract('Sottile')">View Abstract</button>  |
-| January 30, 2026 3:00 PM |[Luca Di Cerbo](https://people.clas.ufl.edu/ldicerbo/) | Florida |Curvature, Macroscopic Dimensions, and Symmetric Product of Curves |  <button type="button" class="abstract-link" onclick="showAbstract('DiCerbo')">View Abstract</button>|
-| January 30, 2026 4:00 PM|[Ikenna Nometa](https://www.ikennanometa.com/) | Georgia Tech | Degrees of the Wasserstein distance to small toric models| <button type="button" class="abstract-link" onclick="showAbstract('Nometa')">View Abstract</button> |
-| February 6, 2026 | Jinhyung Park | KAIST | Determinantal ideals of secant varieties |<button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button>  |
-| February 23, 2026 |  Jie Xu | Northeastern University | A Series of Rosenberg-Stolz Conjectures |  <button type="button" class="abstract-link" onclick="showAbstract('JieXu')">View Abstract</button>|
-| February 26, 2026 | [Francis Su](https://www.francissu.com/) | Harvey Mudd College | | [Geller Lecture](https://sites.google.com/tamu.edu/geller-lecture-2026/home) <br><br> Special day and time: <br> 6 PM, Blocker 117 |
-| February 27, 2026 | Monica Kang| TAMU Physics|Index from a point |  <button type="button" class="abstract-link" onclick="showAbstract('Kang')">View Abstract</button> |
-| March 2, 2026 |  [Frank Sottile](https://franksottile.github.io/) | Texas A&M | Welschinger signs and Webs of maximally inflected curves | <button type="button" class="abstract-link" onclick="showAbstract('Sottile2')">View Abstract</button> |
-| March 9, 2026 | | Spring Break | | |
-| March 13, 2026 | | Spring Break | | |
-| March 16, 2026 | Shrawn Kumar | UNC Chapel Hill | Conjectural Positivity for Pontryagin Product in Equivariant K-theory of Loop Groups|  <button type="button" class="abstract-link" onclick="showAbstract('Kumar')">View Abstract</button> |
-| March 23, 2026 |Suhas Gondi | UC San Diego| Border Rank Lower Bounds for Families of $GL(V)$-invariant Tensors| <button type="button" class="abstract-link" onclick="showAbstract('Gondi')">View Abstract</button> | |
-| April 3, 2026 | | Good Friday | | |
-| April 6, 2026 |JM Landsberg | TAMU| Centroids and matrix multiplication | <button type="button" class="abstract-link" onclick="showAbstract('JML')">View Abstract</button |
-| April 10, 2026 | Nathan Chen | Harvard | Characterizing algebraic varieties through symmetries | <button type="button" class="abstract-link" onclick="showAbstract('NC')">View Abstract</button|
-| April 13, 2026 | | | | |
-| April 17, 2026 | | [TAGS](https://franksottile.github.io/conferences/TAGS26/index.html) | | |
-| April 20, 2026 | | | | |
-| April 24, 2026 | Iacopo Brivio | CMSA Harvard | Non extendable MMPs | <button type="button" class="abstract-link" onclick="showAbstract('Brivio')">View Abstract</button> |
-| April 27, 2026 | | | | |
+| August 24, 2027 |  |  | | |
+| August 28, 2027 |  |  | | |
+| August 31, 2027 |  |  | | |
+| September 4, 2027 | | | | |
+| September 7, 2027 | | | | |
+| September 11, 2027 | | | | |
+| September 14, 2027 | | | | |
+| September 18, 2027 | | | | |
+| September 21, 2027 | | | | |
+| September 25, 2027 | | | | |
+| September 28, 2027 | | | | |
+| October 2, 2027 | | | | |
+| October 5, 2027 | | | | |
+| October 9, 2027 | | | | |
+| October 12, 2027 | | | | |
+| October 16, 2027 | | | | |
+| October 19, 2027 | | | | |
+| October 23, 2027 | | | | |
+| October 26, 2027 | | | | |
+| October 30, 2027 | | SIAM TX-LA | | |
+| November 2, 2027 | | | | |
+| November 6, 2027 | | | | |
+| November 9, 2027 | | | | |
+| November 13, 2027 | | | | |
+| November 16, 2027 | | | | |
+| November 20, 2027 | | | | |
+| November 23, 2027 | | | | |
+| November 30, 2027 | | | | |
+| December 4, 2027 | | | | |
 
 <!-- # Past Seminars  -->
+[Spring 2026](2026_1.md)
 [Fall 2025](2025_2.md)
-
 
 
 
 <!------- Abstract content ------->
 
-<div id="Berkolaiko" style="display:none;" aria-hidden="true">
-  <p>The Rayleigh-Ritz method approximates the eigenvalues of a large
-Hermitian matrix $B$ with Ritz values, which are the eigenvalues of $B$'s
-restriction to a smaller trial subspace $S$.  We can view the $k$-th
-Ritz value as a real-valued function ("Ritz energy landscape") on the
-manifold of all possible s-dimensional trial subspaces, the
-Grassmannian $Gr_s(C^n)$ (or $Gr_s(R^n)$ for the real symmetric case).
-</p><p>
-Motivated by questions from quantum chemistry and spectral
-optimization, this talk explores the topology of the Ritz energy
-landscape. A Morse function is called "perfect" if it describes the
-topology of its domain in the most efficient way possible, meaning the
-number of its critical points of each type exactly matches the
-corresponding Betti number of the space.  We demonstrate that for a
-matrix $B$ with distinct eigenvalues, the Ritz landscape is indeed
-perfect. While the function itself is not everywhere smooth and its
-critical points are not isolated --- and not even Morse-Bott --- its
-critical structure is nevertheless well-defined and ultimately
-reflects the topology of the Grassmannian in a minimal, perfect way.
-</p><p>
-To be more precise, we show that the filtration of the Grassmannian by
-the sublevel sets of the $k$-th Ritz value is homologically perfect.
-The proof proceeds by introducing a suitable perturbation which
-ensures that points of non-smoothness are not critical (by a theorem
-of Zelenko and the presenter) and that the remaining smooth critical
-points are isolated.
-</p>
-<p>Based on a joint work with Mark Goresky (IAS).
-</p>
-</div>
-
-<!---------------------------------------------------------------------------------------------------->
-
-<div id="Sottile" style="display:none;" aria-hidden="true">
-  <p>
-An  important special  case of  Schubert calculus  for the  Grassmannian
-concerns flags osculating the rational normal curve, which is equivalent
-to the  Bethe Ansatz  in the  Gaudin model for  $\mathfrak{gl}_d$.  The  most natural
-family of  these problems are  indexed by partitions $\lambda$.   Liao and
-Rybnikov  recently studied  a subgroup  of the  monodromy group  for the
-Bethe Ansatz  equivalent to the action  of the cactus group  on standard
-Young tableau of shape $\lambda$.  When $\lambda$ is a hook or is symmetric,
-they  showed that  it  was  not 2-transitive,  but  was otherwise  giant
-(contains the alternating group).
-</p>
-<p>
-I will describe  this background and then give  some geometric arguments
-which  refine their  work on  hooks and  symmetric partitions,  and then
-present  some computational  evidence that  Harris's principle  holds in
-that the monodromy is a large as possible.  This is based on joint work with Leonid Rybnikov (UdeM).
-</p>
-</div>
-
-<!---------------------------------------------------------------------------------------------------->
-
-<div id="DiCerbo" style="display:none;" aria-hidden="true">
-  <p>
-n this talk, I will present a detailed study of the curvature and symplectic asphericity properties of symmetric products of curves. I show that these spaces can be used to answer nuanced questions arising in the study of closed Riemannian manifolds with positive scalar curvature. For example, symmetric products of curves sharply distinguish between two distinct notions of macroscopic dimension introduced by Gromov and Dranishnikov. As a natural generalization of this circle of ideas, I will also address the Gromov–Lawson and Gromov conjectures in the Kaehler projective setting and draw new connections between the theories of the minimal model, positivity in algebraic geometry, and macroscopic dimensions. This is joint work with Alexander Dranishnikov and Ekansh Jauhari.
-</p>
-</div>
-
-<!---------------------------------------------------------------------------------------------------->
-
-
-<!---------------------------------------------------------------------------------------------------->
-
-<div id="Nometa" style="display:none;" aria-hidden="true">
-  <p>
-The study of the closest point(s) on a statistical model from a given distribution in the probability simplex with respect to a fixed Wasserstein metric yields a polyhedral norm-distance optimization problem.
-There are two components to the complexity of computing the Wasserstein distance between a data point and a model.
-One is the combinatorial complexity, governed by the combinatorics of the Lipschitz polytope of the finite metric to be used.
-Another is the algebraic complexity, which is governed by the polar degrees of the Zariski closure of the model.
-In this talk, I will discuss the formulas for the polar degrees of rational normal scrolls and graphical models whose underlying graphs are star trees.
-If time permits, I will discuss our efforts to compute polar degrees for graphical models with four binary random variables, including the path on four vertices and the four-cycle, as well as for small, no-three-way-interaction models.
-</p>
-<p>
-This talk is based on a joint work (<a href="https://msp.org/astat/2024/15-2/astat-v15-n2-p05-s.pdf">DOI: 10.2140/astat.2024.15.249</a>) with Greg DePaul, Serkan Hoşten, and Nilava Metya
-</p>
-</div>
-
-<!---------------------------------------------------------------------------------------------------->
-
-<div id="Park" style="display:none;" aria-hidden="true">
-  <p>
-We show that the homogeneous ideals of secant varieties of smooth projective curves and surfaces in sufficiently ample embeddings are determinantally presented. The same result holds for the first secant varieties of arbitrary smooth projective varieties in sufficiently ample embeddings. This completely settles a conjecture of Eisenbud-Koh-Stillman for curves and partially resolves a conjecture of Sidman-Smith in higher dimensions. To establish the results, we employ the geometry of Hilbert schemes of points. Based on our method, we also prove that the homogeneous ideals of arbitrary projective schemes in sufficiently ample embeddings are generated by quadrics of rank three, confirming a conjecture of Han-Lee-Moon-Park. This is joint work with Daniele Agostini.
-</p>
-</div>
-
-<!---------------------------------------------------------------------------------------------------->
-
-
-
-<!---------------------------------------------------------------------------------------------------->
-
-<div id="JieXu" style="display:none;" aria-hidden="true">
-  <p>
-In 1994 and 2006 survey articles, Rosenberg and Stolz stated a series of conjectures by "persisting" non-positive scalar curvature metrics from a closed manifold $ X $ to the product space between $ X $ and a real line, the 2-plane, or a circle, respectively.
-There are two classical methods to study this type of problem: one is the method of index-theoretic obstructions, and the other is through geometric measure theory initiated by minimal hypersurfaces, then developed by e.g. Gromov's $ \mu $-bubble method.
-</p><p>
-In this talk, we introduce a different, conformal geometry and PDE approach to partially answer a series of Rosenberg-Stolz conjectures, and Gromov-Lawson type scalar and mean curvature comparison results for all dimensions from "transposing the positivity" point of view. We also show its application in complex geometry. Some of my work involves collaboration with S. Rosenberg.
-</p>
-</div>
 <!---------------------------------------------------------------------------------------------------->
 
 <!---------------------------------------------------------------------------------------------------->
-<div id="Kang" style="display:none;" aria-hidden="true">
-  <p>
- We argue that protected data of $4d$ $N=2$ SCFTs admits a purely algebro-geometric characterization. We conjecture that both the Macdonald index (and hence the Schur index) and the Higgs branch are encoded by a bifiltered affine scheme determined by OPE nilpotency and decoupling relations. Focusing on Argyres–Douglas theories, where the Higgs branch is a point, we show that this geometric construction suffices to reconstruct the full Macdonald index. This is based on recent works with Craig Lawrie and Jaewon Song.
-</p>
-</div>
-<!---------------------------------------------------------------------------------------------------->
 
-
-<!---------------------------------------------------------------------------------------------------->
-<div id="Sottile2" style="display:none;" aria-hidden="true">
-  <p>
-
-A 3-dimensional subspace $f$ of real polynomials defines a map $f\colon {\mathbb P}^1 \to {\mathbb P}^2$ whose image is a rational plane curve.
-It is maximally inflected when all of its flexes are real, equivalently, when its Wronski determinant has only real roots.
-We associate two {\it a priori} distinct signs ($\pm 1$) to $f$: the Welschinger invariant of the rational curve and the degree of
-the Wronski map at $f$.   Extensive computation suggests that these signs coincide.   While studying the conjecture,
-we were led to a deeper conjecture:  We define a mixed Wronskian, a function ${\mathbb P}^1 \to {\mathbb P}^1$.  The 
-inverse image of the positive reals encodes the real geometry of $f$ and conjecturally is an object called a web.
-We conjecture that known bijections between webs and standard Young tableaux and between tableaux with maximally inflected curves 
-recovers the curve.</p>
-<p>
-This talk will explain this  picture with compelling evidence and beautiful
-<a href="https://franksottile.github.io/research/stories/webs/42.html">pictures</a>.  It  is joint  work with Brazelton,  Karp, Le,
-Levinson, McKean,  Peltola, and Speyer.
-</p>
-</div>
-<!---------------------------------------------------------------------------------------------------->
-
-
-<!---------------------------------------------------------------------------------------------------->
-<div id="Kumar" style="display:none;" aria-hidden="true">
-<p>
-
- Let $G$ be a connected simply-connected simple algebraic group over $\mathbb{C}$ and let $T$ be  a maximal torus, $B\supset T$ a Borel subgroup   and $K$  a maximal compact subgroup. Then, the product in the (algebraic) based loop group $\Omega(K)$  gives rise to a comultiplication in the topological $T$-equivariant $K$-ring $K_T^{\rm{top}}(\Omega(K))$. Recall that   $\Omega(K)$ is identified with the affine Grassmannian $\mathcal{X}$ (of $G$) and hence we get a comultiplication in 
-$ K_T^{\rm{top}}(\mathcal{X})$. Dualizing, one gets the Pontryagin product in the $T$-equivariant $K$-homology $K^T_0(\mathcal{X})$, which in-turn gets identified with the convolution product (due to S. Kato).  
-Now, $ K_T^{\rm{top}}(\mathcal{X})$ has a basis $\{\xi^w\}$ over the representation ring $R(T)$  
-given by the ideal sheaves corresponding to the finite codimension Schubert varieties $X^w$ in $\mathcal{X}$. We make a positivity conjecture  on the comultiplication structure constants in the above basis. Using some results of  Kato, this conjecture gives rise to an equivalent conjecture on the positivity of the multiplicative structure constants in $T$-equivariant quantum $K$-theory $QK_T(G/B)$ in the Schubert basis Let $G$ be a connected simply-connected simple algebraic group over $\mathbb{C}$ and let $T$ be  a maximal torus, $B\supset T$ a Borel subgroup   and $K$  a maximal compact subgroup. Then, the product in the (algebraic) based loop group $\Omega(K)$  gives rise to a comultiplication in the topological $T$-equivariant $K$-ring $K_T^{\rm{top}}(\Omega(K))$. Recall that   $\Omega(K)$ is identified with the affine Grassmannian $\mathcal{X}$ (of $G$) and hence we get a comultiplication in 
-$ K_T^{\rm{top}}(\mathcal{X})$. Dualizing, one gets the Pontryagin product in the $T$-equivariant $K$-homology $K^T_0(\mathcal{X})$, which in-turn gets identified with the convolution product (due to S. Kato).  
-Now, $ K_T^{\rm{top}}(\mathcal{X})$ has a basis $\{\xi^w\}$ over the representation ring $R(T)$  
-given by the ideal sheaves corresponding to the finite codimension Schubert varieties $X^w$ in $\mathcal{X}$. We make a positivity conjecture  on the comultiplication structure constants in the above basis. Using some results of  Kato, this conjecture gives rise to an equivalent conjecture on the positivity of the multiplicative structure constants in $T$-equivariant quantum $K$-theory $QK_T(G/B)$ in the Schubert basis
-</p>
-</div>
-<!---------------------------------------------------------------------------------------------------->
-
-
-<!---------------------------------------------------------------------------------------------------->
-<div id="Gondi" style="display:none;" aria-hidden="true">
-  <p>
-  The border rank of tensors is a widely studied topic with practical applications to theoretical computer science and algebraic statistics.
-  Lower bounds on the border rank of the matrix multiplication tensor were obtained using techniques from representation theory and
-  algebraic geometry.
-  In this talk, we will prove non-trivial border rank lower bounds for a class of $GL(V)$-invariant tensors
-  using Young flattenings constructed by Wu.
-  We will see how this comes down to proving results on ranks of certain maps between Schur functors,
-  the proofs of which surprisingly use deep results in representation theory and commutative algebra 
-</p>
-</div>
-<!---------------------------------------------------------------------------------------------------->
-
-
-
-<!---------------------------------------------------------------------------------------------------->
-<div id="JML" style="display:none;" aria-hidden="true">
-  <p>
-   A fundamental invariant of tensor is its centroid. It contains important information
-   about both the complexity of a tensor and its symmetries. I will explain the connection
-    between centroids, geometry and symmetry as well as  very recent developments.
-    This is work in progress with Martin Kassabov, Victor Sousza and Phillip Speegle.
-</p>
-</div>
-<!---------------------------------------------------------------------------------------------------->
-
-<!---------------------------------------------------------------------------------------------------->
-<div id="NC" style="display:none;" aria-hidden="true">
-  <p>
-   The goal of this talk is to explore what the group of birational automorphisms can say about a variety. We will then focus on the case of algebraic varieties that birationally split off a copy of projective space. This is joint work with L. Esser, A. Regeta, C. Urech, and I. van Santen.
-</p>
-</div>
-<!---------------------------------------------------------------------------------------------------->
-
-<!---------------------------------------------------------------------------------------------------->
-<div id="Brivio" style="display:none;" aria-hidden="true">
-  <p>
-    It was observed by Kollár that the moduli functor of stable varieties in characteristic p>0 is no longer proper when one considers varieties of dimension $\geq 3$. The key point is the existence of families of plt good minimal models of general type for which taking the relative canonical model does not commute with base change. I am going to illustrate an example showing that this kind of pathological behavior is not limited to the relative canonical model, but can indeed occur for any step of the relative MMP. In particular, flips do not always extend from the central fiber of a family, even when the corresponding small contraction does.
-</p>
-</div>
 <!---------------------------------------------------------------------------------------------------->
 
 
