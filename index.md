@@ -25,15 +25,15 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
 | August 24, 2027 |  |  | | |
-| August 28, 2027 |  |  | | |
+| August 28, 2027 |  | Promotion talk  | | |
 | August 31, 2027 |  |  | | |
-| September 4, 2027 | | | | |
+| September 4, 2027 | | Promotion talk  | | |
 | September 7, 2027 | | | | |
-| September 11, 2027 | | | | |
-| September 14, 2027 | | | | |
-| September 18, 2027 | | | | |
+| September 11, 2027 | | Promotion talk  | | |
+| September 14, 2027 | [Shend Zhjeqi](https://shend-zh.github.io/.github.io/) | University of Michigan | TBA | |
+| September 18, 2027 | | Promotion talk  | | |
 | September 21, 2027 | | | | |
-| September 25, 2027 | | | | |
+| September 25, 2027 | | Promotion talk  | | |
 | September 28, 2027 | | | | |
 | October 2, 2027 | | | | |
 | October 5, 2027 | | | | |
