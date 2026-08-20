@@ -24,9 +24,9 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
-| August 24, 2027 |  |  | | |
-| August 28, 2027 |  | Promotion talk  | | |
-| August 31, 2027 |  |  | | |
+| August 24, 2027 | Samuel Sottile | Stanford | Lagrangian Fibrations in High Dimensions <button type="button" class="abstract-link" onclick="showAbstract('SSottile')">View Abstract</button> | |
+| August 28, 2027 | [Sung Gi Park](https://sites.google.com/view/sunggipark/) | Princeton | From GIT to Baily-Borel: Moduli of hypersurfaces via minimal exponents <button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button> | 11&dash12 Note special time |
+| August 31, 2027 | Phil Speegle | Texas A&M | TBA  <button type="button" class="abstract-link" onclick="showAbstract('Speegle')">View Abstract</button>| |
 | September 4, 2027 | | Promotion talk  | | |
 | September 7, 2027 | | | | |
 | September 11, 2027 | | Promotion talk  | | |
@@ -60,11 +60,37 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 
 
-<!------- Abstract content ------->
+<!-------------------------------------    Abstract content    --------------------------------------->
 
+<!---------------------------------------------------------------------------------------------------->
+<div id="SSottile" style="display:none;" aria-hidden="true">
+  <p> TBA
+ </p>
+ 
+
+<!---------------------------------------------------------------------------------------------------->
+<div id="Park" style="display:none;" aria-hidden="true">
+  <p> The moduli space of smooth hypersurfaces in projective space
+can be constructed as a GIT quotient by linear changes of coordinates,
+and it comes with a natural GIT compactification. In certain degrees
+and dimensions, Hodge theory provides a second compactification via
+the period map, namely the Baily-Borel compactification. Building on
+recent progress on higher singularities and a new stability criterion
+formulated in terms of the minimal exponent (a refinement of the log
+canonical threshold), I will discuss the birational geometry of these
+two compactifications and describe consequences for the boundary
+behavior of the period map.
+ </p>
+ 
 <!---------------------------------------------------------------------------------------------------->
 
 <!---------------------------------------------------------------------------------------------------->
+<div id="Speegle" style="display:none;" aria-hidden="true">
+  <p> TBA
+ </p>
+ 
+<!---------------------------------------------------------------------------------------------------->
+
 
 <!---------------------------------------------------------------------------------------------------->
 
