@@ -66,7 +66,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 <div id="SSottile" style="display:none;" aria-hidden="true">
   <p> TBA
  </p>
- 
+</div>
 
 <!---------------------------------------------------------------------------------------------------->
 <div id="Park" style="display:none;" aria-hidden="true">
@@ -81,18 +81,26 @@ canonical threshold), I will discuss the birational geometry of these
 two compactifications and describe consequences for the boundary
 behavior of the period map.
  </p>
- 
+
+</div> 
 <!---------------------------------------------------------------------------------------------------->
 
 <!---------------------------------------------------------------------------------------------------->
 <div id="Speegle" style="display:none;" aria-hidden="true">
   <p> TBA
  </p>
- 
+</div>
 <!---------------------------------------------------------------------------------------------------->
 
 
 <!---------------------------------------------------------------------------------------------------->
+<div id="" style="display:none;" aria-hidden="true">
+  <p> TBA
+ </p>
+</div>
+<!---------------------------------------------------------------------------------------------------->
+
+---------------------------------------------------------------------------------------------------->
 
 
 <!-- Code that makes the pop-up windows -->
