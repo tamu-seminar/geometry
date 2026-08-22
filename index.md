@@ -64,7 +64,16 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
 <!---------------------------------------------------------------------------------------------------->
 <div id="SSottile" style="display:none;" aria-hidden="true">
-  <p> TBA
+  <p> The SYZ conjecture posits that special Lagrangian fibrations provide a geometric explanation for mirror symmetry.
+  On the purely symplectic side, non-special Lagrangian torus fibrations provide a useful framework for understanding the geometry of symplectic manifolds.
+  However, there is no general theory of these fibrations in dimensions higher than four, in part due to a dearth of examples.
+  This limits many applications to four dimensions.
+  </p>
+  <p>
+  In this talk, I will present my work on constructing Lagrangian torus fibrations in all dimensions.
+  I will show that many complete intersections in toric varieties admit such fibrations.
+  For example, Batyrev-Borisov mirror pairs have dual Lagrangian torus fibrations.
+  I will also show that all Fano threefolds admit Lagrangian torus fibrations with base the three dimensional ball.
  </p>
 </div>
 
