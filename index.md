@@ -25,7 +25,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
 | August 24, 2027 | Samuel Sottile | Stanford | Lagrangian Fibrations in High Dimensions <button type="button" class="abstract-link" onclick="showAbstract('SSottile')">View Abstract</button> | |
-| August 28, 2027 | [Sung Gi Park](https://sites.google.com/view/sunggipark/) | Princeton | From GIT to Baily-Borel: Moduli of hypersurfaces via minimal exponents <button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button> | 11&dash;12 Note special time |
+| August 28, 2027 | [Sung Gi Park](https://sites.google.com/view/sunggipark/) | Princeton | From GIT to Baily-Borel: Moduli of hypersurfaces via minimal exponents <button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button> | 11&ndash;12 Note special time |
 | August 31, 2027 | Phil Speegle | Texas A&M | TBA  <button type="button" class="abstract-link" onclick="showAbstract('Speegle')">View Abstract</button>| |
 | September 4, 2027 | | Promotion talk  | | |
 | September 7, 2027 | | | | |
