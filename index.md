@@ -26,7 +26,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 |--------------|---------|------------|-------|-------|
 | August 24, 2027 | Samuel Sottile | Stanford | Lagrangian Fibrations in High Dimensions <button type="button" class="abstract-link" onclick="showAbstract('SSottile')">View Abstract</button> | |
 | August 28, 2027 | [Sung Gi Park](https://sites.google.com/view/sunggipark/) | Princeton | From GIT to Baily-Borel: Moduli of hypersurfaces via minimal exponents <button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button> | 11&ndash;12 Note special time |
-| August 31, 2027 | Phil Speegle | Texas A&M | TBA  <button type="button" class="abstract-link" onclick="showAbstract('Speegle')">View Abstract</button>| |
+| August 31, 2027 | Phil Speegle | Texas A&M | Systematic Tensor Decompositions via Centroids  <button type="button" class="abstract-link" onclick="showAbstract('Speegle')">View Abstract</button>| |
 | September 4, 2027 | | Promotion talk  | | |
 | September 7, 2027 | | | | |
 | September 11, 2027 | | Promotion talk  | | |
@@ -46,7 +46,7 @@ The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 | October 30, 2027 | | SIAM TX-LA | | |
 | November 2, 2027 | | | | |
 | November 6, 2027 | | | | |
-| November 9, 2027 | | | | |
+| November 9, 2027 | | | | Blocker 628 |
 | November 13, 2027 | | | | |
 | November 16, 2027 | | | | |
 | November 20, 2027 | | | | |
@@ -96,7 +96,13 @@ behavior of the period map.
 
 <!---------------------------------------------------------------------------------------------------->
 <div id="Speegle" style="display:none;" aria-hidden="true">
-  <p> TBA
+  <p> Finding a border rank decomposition for a tensor is often a delicate balance between "science" and "art".
+  On one hand, if the tensor has enough structure, one can exploit various dictionaries between these tensors and well-studied structures in algebraic geometry to prove upper bounds on its border rank.
+  On the other, as far as we are aware, all other border rank decompositions previous to this work are presented with no explanation.
+  Using a fundamental invariant of a tensor called the centroid, we discuss tools to systematically approach finding border rank decompositions for any tensor, even those with little to no structure.
+  As applications, we introduce new tensors with large centroids and prove that they have minimal border rank, and we also find new, lower order decompositions for other important tensors, one of whose older decompositions had previously been state-of-the-art for 40 years.
+  A main goal of this talk is to be very accessible and introduce many examples.
+  This is joint work with JM Landsberg (Texas A&M), Martin Kassabov (Cornell), and Victor Souza (Cambridge; Cornell).
  </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
