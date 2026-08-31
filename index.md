@@ -21,19 +21,15 @@ This seminar meets on Mondays 3:00-3:50 PM and Fridays 4:00-4:50 PM in Blocker 3
 
 The organizers are [Frank Sottile](https://franksottile.github.io/) and others.
 
+Many dates in September conflict with promotion talks or committee meetings.
 
 | Date         | Speaker | Affiliation| Title | Other |
 |--------------|---------|------------|-------|-------|
 | August 24, 2027 | Samuel Sottile | Stanford | Lagrangian Fibrations in High Dimensions <button type="button" class="abstract-link" onclick="showAbstract('SSottile')">View Abstract</button> | |
-| August 28, 2027 | [Sung Gi Park](https://sites.google.com/view/sunggipark/) | Princeton | From GIT to Baily-Borel: Moduli of hypersurfaces via minimal exponents <button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button> | 11&ndash;12 Note special time |
+| August 28, 2027 | [Sung Gi Park](https://sites.google.com/view/sunggipark/) | Princeton | From GIT to Baily-Borel: Moduli of hypersurfaces via minimal exponents <button type="button" class="abstract-link" onclick="showAbstract('Park')">View Abstract</button> | Cancelled |
 | August 31, 2027 | Phil Speegle | Texas A&M | Systematic Tensor Decompositions via Centroids  <button type="button" class="abstract-link" onclick="showAbstract('Speegle')">View Abstract</button>| |
-| September 4, 2027 | | Promotion talk  | | |
-| September 7, 2027 | | | | |
-| September 11, 2027 | | Promotion talk  | | |
 | September 14, 2027 | [Shend Zhjeqi](https://shend-zh.github.io/.github.io/) | University of Michigan | TBA | |
-| September 18, 2027 | | Promotion talk  | | |
 | September 21, 2027 | | | | |
-| September 25, 2027 | | Promotion talk  | | |
 | September 28, 2027 | | | | |
 | October 2, 2027 | | | | |
 | October 5, 2027 | | | | |
