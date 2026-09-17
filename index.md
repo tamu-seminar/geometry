@@ -37,7 +37,7 @@ Many dates in September conflict with promotion talks or committee meetings.
 | October 12, 2027 | | | | |
 | October 16, 2027 | | | | |
 | October 19, 2027 | | | | |
-| October 23, 2027 | | | | |
+| October 23, 2027 |[Aditya Kumar](https://sites.google.com/view/adityakm?pli=1&authuser=0) | University of Maryland | | |
 | October 26, 2027 | | | | |
 | October 30, 2027 | | SIAM TX-LA | | |
 | November 2, 2027 | | | | |
@@ -51,8 +51,10 @@ Many dates in September conflict with promotion talks or committee meetings.
 | December 4, 2027 | | | | |
 
 <!-- # Past Seminars  -->
-[Spring 2026](2026_1.md)
-[Fall 2025](2025_2.md)
+# Past Seminars
+
+- [Spring 2026](2026_1.md)
+- [Fall 2025](2025_2.md)
 
 
 
@@ -110,8 +112,6 @@ behavior of the period map.
  </p>
 </div>
 <!---------------------------------------------------------------------------------------------------->
-
----------------------------------------------------------------------------------------------------->
 
 
 <!-- Code that makes the pop-up windows -->
