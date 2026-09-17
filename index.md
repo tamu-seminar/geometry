@@ -51,7 +51,7 @@ Many dates in September conflict with promotion talks or committee meetings.
 | December 4, 2027 | | | | |
 
 <!-- # Past Seminars  -->
-# Past Seminars
+## Past Seminars
 
 - [Spring 2026](2026_1.md)
 - [Fall 2025](2025_2.md)
